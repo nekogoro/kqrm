@@ -12,6 +12,10 @@
   <rect x="505" y="620" rx="10" width="20" height="115" fill="#009944" stroke="#009944" stroke-width="3"/>
   <rect x="555" y="170" rx="10" width="20" height="715" fill="#d7c447" stroke="#d7c447" stroke-width="3"/>
 
+  <polyline fill="none" stroke="gray" stroke-width="5" fill="gray" stroke-linecap="round"
+        points="605,770 605,875 565,875"/>
+  <text x="605" y="760" text-anchor="end" writing-mode="tb" text-anchor="end" letter-spacing="-4" style="font-size: 8pt;">改修工廠を準備せよ！</text>
+
   <circle cx="315" cy="125" r="10" fill="#FFFFFF" stroke="black" stroke-width="3" />
   <circle cx="315" cy="225" r="10" fill="#FFFFFF" stroke="black" stroke-width="3" />
   <circle cx="365" cy="275" r="10" fill="#FFFFFF" stroke="black" stroke-width="3" />
